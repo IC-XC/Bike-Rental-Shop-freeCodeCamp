@@ -1,3 +1,3 @@
-## 📖 Bike-Rental-Shop-freeCodeCamp
+# 📖 Bike-Rental-Shop-freeCodeCamp
 
-### 👀 An interactive Bash program that stores rental information for your bike rental shop using PostgreSQL.
+# 👣 👀 Relational Database - Learn Bash and SQL by Building a Bike Rental Shop
